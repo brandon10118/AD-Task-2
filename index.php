@@ -8,7 +8,7 @@
 <body>
     <header>
         <div class='navbar'>
-            
+            <h7><a href='/AD-Task-2/index.php'>Zodiac Sign</a></h7>
         </div>
     </header>
 </body>
