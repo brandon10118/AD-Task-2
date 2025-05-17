@@ -7,12 +7,12 @@
 </head>
 <body>
     <?php
-    
+
     echo "<header>";
         echo "<div class='navbar'>";
             echo "<h7><a href='/AD-Task-2/index.php'>Zodiac Sign</a></h7>";
-            echo "<a href="">Home</a>";
-            echo "<a href="">Zodiac Signs List</a>";
+            echo "<a href=''>Home</a>";
+            echo "<a href=''>Zodiac Signs List</a>";
 
         echo "</div>";
     echo "</header>";
