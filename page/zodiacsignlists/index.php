@@ -15,6 +15,7 @@
             echo"<a href='/page/zodiacsignlists/index.php' id='ZodiacSignList'>Zodiac Signs List</a>";
         echo"</div>";
     echo"</header>";
+    $ZodiacSigns
     ?>
 </body>
 </html>
