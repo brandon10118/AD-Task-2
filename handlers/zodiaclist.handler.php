@@ -4,6 +4,7 @@ function runlist(){
         echo $ZodiacSign;
     }
 }
+
 $ZodiacSigns = array(
     "Aquarius (January 20 - February 18)",
     "Pisces (February 19 - March 20",

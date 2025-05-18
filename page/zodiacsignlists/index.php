@@ -19,7 +19,7 @@
 
     <?php
     include __DIR__ . '/../../handlers/zodiaclist.handler.php';
-    runlist();
+    runlist($ZodiacSigns);
     ?>
 
 </body>
