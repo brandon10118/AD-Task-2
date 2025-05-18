@@ -1,11 +1,6 @@
 <?php
 function runlist(){
-    foreach ($ZodiacSigns as $ZodiacSign){
-        echo $ZodiacSign;
-    }
-}
-
-$ZodiacSigns = array(
+    $ZodiacSigns = array(
     "Aquarius (January 20 - February 18)",
     "Pisces (February 19 - March 20",
     "Aries (March 21 - April 19)",
@@ -19,4 +14,11 @@ $ZodiacSigns = array(
     "Sagittarius (November 22 - December 21)",
     "Capricorn (December 22 - January 19)"
 );
+
+    foreach ($ZodiacSigns as $ZodiacSign){
+        echo $ZodiacSign;
+    }
+}
+
+
 ?>
