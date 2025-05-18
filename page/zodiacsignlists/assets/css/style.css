@@ -42,5 +42,5 @@ header{
     transition: background-color 0.3s ease;
 }
 .navbar #ZodiacSignList:hover{
-    
+    background-color: rgb(167, 167, 167);
 }
