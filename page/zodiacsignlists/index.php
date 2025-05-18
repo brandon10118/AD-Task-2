@@ -17,7 +17,9 @@
     echo"</header>";
 
     include __DIR__ . '/../../handlers/zodiaclist.handler.php';
+    echo"<div class='listcontainer'>";
     runlist();
+    echo"</div>";
     ?>
 
 </body>
