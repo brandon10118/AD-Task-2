@@ -6,6 +6,7 @@ $ZodiacSigns = array(
     "Taurus (April 20 - May 20)",
     "Gemini (May 21 - June 20",
     "Cancer (June 21 - July 22)",
-    "Leo (July 23 - August 22"
+    "Leo (July 23 - August 22",
+    "Virgo (August 23 - September 22)"
 );
 ?>
