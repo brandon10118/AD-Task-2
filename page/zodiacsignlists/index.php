@@ -6,6 +6,10 @@
     <title>Zodiac Sign List</title>
 </head>
 <body>
-    
+    <?php
+    echo"<header>";
+        
+    echo"</header>";
+    ?>
 </body>
 </html>
