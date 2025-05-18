@@ -34,5 +34,6 @@ header{
 .navbar #ZodiacSignList{
     text-decoration: none;
     color: black;
+    font-size: 15px;
 
 }
