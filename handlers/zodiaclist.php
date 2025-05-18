@@ -1,3 +1,7 @@
 <?php
-$ZodiacSigns = array("Aries (March 21 - April 19)", "Taurus (April 20 - May 20)");
+$ZodiacSigns = array(
+    "Aquarius (January 20 - February 18)",
+    "Aries (March 21 - April 19)",
+    "Taurus (April 20 - May 20)"
+);
 ?>
