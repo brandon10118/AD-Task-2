@@ -9,6 +9,7 @@ $ZodiacSigns = array(
     "Leo (July 23 - August 22",
     "Virgo (August 23 - September 22)",
     "Libra (September 23 - October 22)",
-    "Scorpio (October 23 - November 21)"
+    "Scorpio (October 23 - November 21)",
+    "Sagittarius (November 22 - December 21)",
 );
 ?>
