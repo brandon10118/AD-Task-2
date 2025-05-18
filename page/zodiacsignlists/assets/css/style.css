@@ -11,3 +11,6 @@ header{
     align-items: center;
     padding: 15px 30px;
 }
+.navbar h7 a{
+    text-decoration: none;
+}
