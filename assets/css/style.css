@@ -22,3 +22,6 @@ header{
     font-size: 20px;
     font-weight: bold;
 }
+.navbar #home-link{
+    text-decoration: none;
+}
