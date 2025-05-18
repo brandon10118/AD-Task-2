@@ -16,7 +16,7 @@ function runlist(){
 );
 
     foreach ($ZodiacSigns as $ZodiacSign){
-        echo $ZodiacSign;
+        echo $ZodiacSign."<br>";
     }
 }
 
