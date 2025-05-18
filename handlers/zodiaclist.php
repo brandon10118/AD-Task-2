@@ -11,5 +11,6 @@ $ZodiacSigns = array(
     "Libra (September 23 - October 22)",
     "Scorpio (October 23 - November 21)",
     "Sagittarius (November 22 - December 21)",
+    "Capricorn (December 22 - January 19)"
 );
 ?>
