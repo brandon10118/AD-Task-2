@@ -19,9 +19,7 @@
 
     <?php
     include __DIR__ . '/../../handlers/zodiaclist.handler.php';
-    foreach ($ZodiacSigns as $ZodiacSign){
-        echo $ZodiacSign;
-    }
+    runlist();
     ?>
 
 </body>
