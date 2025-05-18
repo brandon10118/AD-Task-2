@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zodiac Sign List</title>
     <link rel="stylesheet" href="/page/zodiacsignlists/assets/css/style.css">
-    <link rel="stylesheet" href="/handlers/zodiaclist.php">
 </head>
 <body>
     <?php
@@ -16,7 +15,13 @@
             echo"<a href='/page/zodiacsignlists/index.php' id='ZodiacSignList'>Zodiac Signs List</a>";
         echo"</div>";
     echo"</header>";
-    echo $ZodiacSigns;
+    ?>
+
+    <?php
+    include '/handlers/zodiaclist.php'
+    foreach ($ZodiacSigns as $ZodiacSign){
+        echo $ZodiacSign;
+    }
     ?>
 </body>
 </html>
