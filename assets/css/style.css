@@ -9,3 +9,6 @@ body{
 header{
     background-color: rgb(240, 240, 240)
 }
+.navbar{
+    display: flex;
+}
