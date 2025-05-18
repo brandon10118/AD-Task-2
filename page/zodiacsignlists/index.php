@@ -9,7 +9,8 @@
     <?php
     echo"<header>";
         echo"<div class='navbar'>";
-            echo"<h7><a href='/index.php'>Zodiac Sign</a></h7>
+            echo"<h7><a href='/index.php'>Zodiac Sign</a></h7>";
+            echo"<a href='/index.php'>Home</a>";
         echo"</div>";"
     echo"</header>";
     ?>
