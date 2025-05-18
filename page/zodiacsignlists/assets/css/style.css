@@ -3,6 +3,7 @@ body{
     margin: 0;
     font-family: sans-serif;
     background-image: url('/assets/img/mainbg.png');
+    background-size: cover;
 }
 header{
     background-color: rgb(240, 240, 240);
