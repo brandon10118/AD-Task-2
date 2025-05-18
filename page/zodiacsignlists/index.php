@@ -11,7 +11,7 @@
         echo"<div class='navbar'>";
             echo"<h7><a href='/index.php'>Zodiac Sign</a></h7>";
             echo"<a href='/index.php'>Home</a>";
-            echo"<a href='/page/zodiacsignlists/index.php'>Zodiac Signs List</a>
+            echo"<a href='/page/zodiacsignlists/index.php'>Zodiac Signs List</a>";
         echo"</div>";
     echo"</header>";
     ?>
