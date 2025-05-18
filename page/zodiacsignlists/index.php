@@ -8,7 +8,9 @@
 <body>
     <?php
     echo"<header>";
+        echo"<div class='navbar'>";
         
+        echo"</div>";"
     echo"</header>";
     ?>
 </body>
