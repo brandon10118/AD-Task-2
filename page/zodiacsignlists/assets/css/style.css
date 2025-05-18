@@ -9,7 +9,7 @@ body{
     background-color: rgb(0, 0, 0);
 }
 header{
-    background-color: rgb(240, 240, 240);
+    background-color: rgba(17, 17, 17, 0.658);
 }
 .navbar{
     display: flex;
