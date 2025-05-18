@@ -33,5 +33,5 @@ header{
     transition: background-color 0.3s ease;
 }
 .navbar #Home{
-
+    background-color: red;
 }
