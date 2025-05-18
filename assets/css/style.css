@@ -24,4 +24,5 @@ header{
 }
 .navbar #home-link{
     text-decoration: none;
+    color: blue;
 }
