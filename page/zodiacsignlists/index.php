@@ -18,7 +18,7 @@
     ?>
 
     <?php
-    include '/handlers/zodiaclist.php'
+    include '/page/zodiacsignlists/handlers/zodiaclist.handler.php';
     foreach ($ZodiacSigns as $ZodiacSign){
         echo $ZodiacSign;
     }
