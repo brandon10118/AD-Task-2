@@ -29,5 +29,6 @@ $symbolList = array(
     "Cancer" => "Crab",
     "Leo" => "Lion",
     "Virgo" => "Virgin",
+    "Libra" => "Balance",
 );
 ?>
