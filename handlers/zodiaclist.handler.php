@@ -20,5 +20,5 @@ function runlist(){
     }
 }
 
-
+$symbolList = [[]];
 ?>
