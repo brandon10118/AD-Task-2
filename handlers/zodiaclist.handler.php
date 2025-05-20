@@ -28,5 +28,6 @@ $symbolList = array(
     "Gemini" => "Twins",
     "Cancer" => "Crab",
     "Leo" => "Lion",
+    "Virgo" => "Virgin",
 );
 ?>
