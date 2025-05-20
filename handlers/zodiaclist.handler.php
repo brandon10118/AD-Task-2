@@ -23,6 +23,7 @@ function runlist(){
 $symbolList = array(
     "Aquarius" => "Water Bearer",
     "Pisces" => "Fish",
-    "Aries" => "Ram"
+    "Aries" => "Ram",
+    "Taurus" => "Bull",
 );
 ?>
