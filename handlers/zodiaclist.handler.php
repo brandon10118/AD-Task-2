@@ -31,5 +31,6 @@ $symbolList = array(
     "Virgo" => "Virgin",
     "Libra" => "Balance",
     "Scorpio" => "Scorpion",
+    "Sagittarius" => "Archer",
 );
 ?>
