@@ -19,6 +19,7 @@
     include __DIR__ . '/../../handlers/zodiaclist.handler.php';
     echo"<div class='listcontainer'>";
     runlist();
+    echo"<br>";
     echo"</div>";
     ?>
 
