@@ -25,5 +25,6 @@ $symbolList = array(
     "Pisces" => "Fish",
     "Aries" => "Ram",
     "Taurus" => "Bull",
+    "Gemini" => "Twins",
 );
 ?>
