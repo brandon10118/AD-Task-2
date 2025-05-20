@@ -19,7 +19,7 @@
     include __DIR__ . '/../../handlers/zodiaclist.handler.php';
     echo"<div class='listcontainer'>";
     runlist();
-    echo"<br>";
+    echo"<br> Symbols:<br>";
     foreach ($symbolList as $key => $value) {
         echo $key." = ".$value."<br>";
     }
