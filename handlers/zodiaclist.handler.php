@@ -20,5 +20,9 @@ function runlist(){
     }
 }
 
-$symbolList = array("Aquarius" => "Water Bearer", "Pisces" => "Fish");
+$symbolList = array(
+    "Aquarius" => "Water Bearer",
+    "Pisces" => "Fish",
+    "Aries" => "Ram"
+);
 ?>
