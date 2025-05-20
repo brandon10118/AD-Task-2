@@ -20,5 +20,5 @@ function runlist(){
     }
 }
 
-$symbolList = [[]];
+$symbolList = array("Aquarius" => "Water Bearer", "Pisces" => "Fish");
 ?>

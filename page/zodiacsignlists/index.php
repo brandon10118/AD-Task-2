@@ -20,6 +20,9 @@
     echo"<div class='listcontainer'>";
     runlist();
     echo"<br>";
+    foreach ($symbolList as $key => $value) {
+        echo $key." = ".$value."<br>";
+    }
     echo"</div>";
     ?>
 
