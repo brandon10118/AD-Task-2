@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Shows the Dates and Symbols of the Zodiac Signs
 </div>
 
 <br />
