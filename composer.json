@@ -1,0 +1,15 @@
+{
+    "name": "brandon/ad-task-2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Brandon\\AdTask2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brandon10118"
+        }
+    ],
+    "require": {}
+}
